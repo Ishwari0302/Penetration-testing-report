@@ -107,6 +107,40 @@ Key remediation measures included:
 - Review privileged script execution
 - Implement centralized logging and monitoring
 
+## Attack Evidence
+
+### 1. Nmap Reconnaissance
+
+![Nmap Reconnaissance](./screenshots/01-nmap-recon.png)
+
+### 2. Tomcat Manager Discovery
+
+![Tomcat Manager](./screenshots/02-tomcat-manager.png)
+
+### 3. Payload Generation
+
+![Payload Generation](./screenshots/03-payload-generation.png)
+
+### 4. WAR Deployment
+
+![WAR Deployment](./screenshots/04-war-deployment.png)
+
+### 5. Reverse Shell
+
+![Reverse Shell](./screenshots/05-reverse-shell.png)
+
+### 6. SSH Key Compromise
+
+![SSH Key Compromise](./screenshots/06-ssh-key-compromise.png)
+
+### 7. Backup Script Exploitation
+
+![Backup Script Exploitation](./screenshots/07-backup-script-exploitation.png)
+
+### 8. Privilege Escalation to Root
+
+![Privilege Escalation](./screenshots/08-privilege-escalation-root.png)
+
 ## Report
 
 The complete penetration testing report is available in this repository.
